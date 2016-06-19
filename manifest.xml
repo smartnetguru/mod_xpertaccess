@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+  <update>
+      <name>Xpert Access Module</name>
+      <description>Xpert Access Module update</description>
+      <element>mod_xpertaccess</element>
+      <type>module</type>
+      <version>3.2</version>
+      <client>site</client>
+      <infourl title="Xpert Access Module">https://github.com/themexpert/mod_xpertaccess/releases/tag/3.2</infourl>
+      <downloads>
+          <downloadurl type="full" format="zip">https://github.com/themexpert/mod_xpertaccess/releases/download/3.2/mod_txgallery_3.2.zip</downloadurl>
+      </downloads>
+      <tags>
+          <tag>3.2</tag>
+      </tags>
+      <targetplatform name="joomla" version="3.[456789]" />
+  </update>
+</updates>
